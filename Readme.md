@@ -53,14 +53,7 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-## .gitignore 示例（可选）
 
-```gitignore
-*.bak
-*.tmp
-*.log
-.DS_Store
-Thumbs.db
 
  AFK UI 预览
 <p align="center">
