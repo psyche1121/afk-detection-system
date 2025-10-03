@@ -51,10 +51,6 @@ You can also modify the visual feedback, message format, or lock behavior to sui
 ## License
 This project is open-source and free to use under the MIT License.
 
----
-
-
-
  AFK UI 预览
 <p align="center">
 <img src="assets/01.png" width="400" alt="AFK UI 1" />
