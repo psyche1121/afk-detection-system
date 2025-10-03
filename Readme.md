@@ -62,3 +62,16 @@ This project is open-source and free to use under the MIT License.
 .DS_Store
 Thumbs.db
 
+## AFK UI 预览
+<p align="center">
+<img src="assets/01.png" width="400" alt="AFK UI 1" />
+<br><em>AFK 状态提示界面</em>
+</p>
+<p align="center">
+<img src="assets/02.png" width="400" alt="AFK UI 2" />
+<br><em>角色放大与锁定效果</em>
+</p>
+<p align="center">
+<img src="assets/03.png" width="400" alt="AFK UI 3" />
+<br><em>AFK 时间显示与聊天通知</em>
+</p>
