@@ -62,7 +62,7 @@ This project is open-source and free to use under the MIT License.
 .DS_Store
 Thumbs.db
 
-## AFK UI 预览
+ AFK UI 预览
 <p align="center">
 <img src="assets/01.png" width="400" alt="AFK UI 1" />
 <br><em>AFK 状态提示界面</em>
